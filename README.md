@@ -1,3 +1,3 @@
-# Files Manager
+# Files Manager Api
 
-A simple file management API built with Express, MongoDB, Redis, Bull, and Node.js
+A working file management api using redis and mongodb
